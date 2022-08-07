@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88070375812",
+    "project_id": "react-native-tesis",
+    "storage_bucket": "react-native-tesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88070375812:android:0d1e783498005012ed35d1",
+        "android_client_info": {
+          "package_name": "com.tesisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88070375812-bd5dng5m8tab0u56317be2htffu2lmr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-OR6gBasHRSvmhny--a__dj_qGL3k4FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88070375812-bd5dng5m8tab0u56317be2htffu2lmr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
